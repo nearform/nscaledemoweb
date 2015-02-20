@@ -1,4 +1,2 @@
-FROM node:0.10
-
-ADD . /
+FROM node:0.10-onbuild
 
